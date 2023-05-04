@@ -22,8 +22,8 @@
 # GitHub Stats
 <div align="center">
   
-![DUKSOOKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=refactoringK&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refactoringK&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![DUKSOOKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=DUKSOOKIM&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUKSOOKIM&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
